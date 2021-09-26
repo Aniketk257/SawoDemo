@@ -10,7 +10,7 @@ This is a demo project for integration of SAWO API in Android with Kotlin.
 
 2. Go to MainActivity.kt in the project and update your credentials.
 
-![image](https://user-images.githubusercontent.com/67803800/134818839-c920c8e3-364c-4fcd-9c7d-27db6f3102b6.png)
+![carbon](https://user-images.githubusercontent.com/67803800/134820290-50df8186-3eac-43b9-81b8-4abe8a0bb3a9.png)
 
 ---
 
