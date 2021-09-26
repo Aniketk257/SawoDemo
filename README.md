@@ -1,6 +1,7 @@
 # SawoDemo
 
-This is a demo project for an application with integration of the SAWO API. 
+This is a demo project for an application with integration of the SAWO API.
+
 *Gradle Version used is 7.0.2*
 
 ## How to run this Project on your system
