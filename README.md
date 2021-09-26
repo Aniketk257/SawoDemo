@@ -1,6 +1,6 @@
 # SawoDemo
 
-This is a demo project for an application with integration of the SAWO API.
+This is a demo project for integration of SAWO API in Android with Kotlin.
 
 *Gradle Version used is 7.0.2*
 
