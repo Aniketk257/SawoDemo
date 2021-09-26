@@ -2,7 +2,7 @@
 
 This is a demo project for an application with integration of the SAWO API. 
 
-##How to run this Project on your system
+## How to run this Project on your system
 
 1. Go to https://dev.sawolabs.com and create a project and copy the api key and api key secret. (To get the API Key secret, click on the question tag on the right and you'll recieve the credentials in your mail)
 
