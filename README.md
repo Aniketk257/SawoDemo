@@ -16,3 +16,6 @@ This is a demo project for integration of SAWO API in Android with Kotlin.
 
 ### In case you want to build it from scratch
 Go to https://docs.sawolabs.com/sawo/mobile/android
+
+### Feel free to reach out on Twitter:
+https://twitter.com/AniketKhajanchi
